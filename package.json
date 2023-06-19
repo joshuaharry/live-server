@@ -14,7 +14,7 @@
     "faye-websocket": "0.11.x",
     "morgan": "^1.9.1",
     "object-assign": "latest",
-    "open": "latest",
+    "open": "8.4.2",
     "proxy-middleware": "latest",
     "send": "latest",
     "serve-index": "^1.9.1"
